@@ -24,7 +24,7 @@ int main()
 	assert('A' != 'a');
 	assert('A' == 65);
 	assert('A' + 2 == 67);
-    assert('D' > 'A');
+	assert('D' > 'A');
 	assert('A' + 2 == 'C');
 
 	/*
