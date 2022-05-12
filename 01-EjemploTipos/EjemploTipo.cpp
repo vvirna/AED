@@ -4,7 +4,7 @@ using namespace std::literals; //permite usar el sufijo 's'
 
 int main()
 {
-    /*
+	/*
 	prueba de tipo de dato bool
 	*/
 
